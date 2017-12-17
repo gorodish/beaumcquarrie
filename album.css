@@ -34,6 +34,10 @@ body {
     background-color: #f7f7f7;
 }
 
+.resize {
+    object-fit: scale-down;
+}
+
 .card {
     float: left;
     width: 33.333%;
